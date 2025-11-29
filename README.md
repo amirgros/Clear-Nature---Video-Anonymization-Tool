@@ -28,7 +28,7 @@ The project is designed to run easily via Google Colab.
 
 2.  **Upload Required Files:**
     Connect to the runtime and upload the following files to the root `/content` folder:
-    * `shadow_model_full.pth` (The weights for the shadow detection module).
+    * `shadow_model_full.pth` (The weights for the shadow detection module), can be found in [Project_Drive](https://drive.google.com/drive/folders/1GgvzRYu2pRWxGRhZXLl3C_LUwN3P97HK?usp=sharing).
     * `your_video.mp4` (The video/s you want to process).
 
 3.  **Run the Pipeline:**
