@@ -16,7 +16,7 @@ This tool offers an automated pipeline for erasing people from videos. Unlike st
 
 ## 🎞️ Demo
 
-https://github.com/user-attachments/assets/6cb5672f-31c4-4cb4-a320-459997e83b21
+[Demo_Video](https://github.com/user-attachments/assets/6cb5672f-31c4-4cb4-a320-459997e83b21)
 
 
 ## 🚀 How to Use
