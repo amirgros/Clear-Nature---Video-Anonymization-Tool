@@ -19,6 +19,14 @@ This tool offers an automated pipeline for erasing people from videos. Unlike st
 [Demo_Video](https://github.com/user-attachments/assets/6cb5672f-31c4-4cb4-a320-459997e83b21)
 
 
+https://github.com/user-attachments/assets/ef10d451-43cb-47ce-87f2-f936d4269fb9
+
+
+
+https://github.com/user-attachments/assets/e7bde998-49db-4500-95ee-d3fc87137042
+
+
+
 ## 🚀 How to Use
 
 The project is designed to run easily via Google Colab.
