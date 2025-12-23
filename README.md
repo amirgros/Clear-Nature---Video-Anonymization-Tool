@@ -61,7 +61,7 @@ Both for the article "Towards An End-to-End Framework for Flow-Guided Video Inpa
 
 
 For more information, contact us at:
-* amirgrossman@campus.technion.ac.il
-* maya.attia@campus.technion.ac.il
+* amirgrossman@campus.technion.ac.il / amirgrossman@gmail.com
+* maya.attia@campus.technion.ac.il / mayaa02@gmail.com
 ---
 *Created for Project A, Spring 2025.*
